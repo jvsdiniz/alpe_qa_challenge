@@ -1,0 +1,15 @@
+{
+  "name": "alpe_qa_challenge",
+  "version": "1.0.0",
+  "description": "Desafio técnico para QA Senior da empresa ALPE ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Vitor Santos Diniz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.14.2",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  }
+}
